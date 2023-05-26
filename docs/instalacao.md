@@ -17,6 +17,10 @@ Você precisará instalar também o ```sqlite3```. Verifique no site da sua dist
 ```console
 sudo apt install sqlite3
 ```
+windows:
+https://www.sqlitetutorial.net/download-install-sqlite/
+
+https://stackoverflow.com/questions/20711240/how-to-completely-remove-node-js-from-windows
 
 # Execução 
 
